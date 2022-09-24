@@ -38,6 +38,7 @@ project.fragment.lock.json
 artifacts/
 
 # Files built by Visual Studio
+.vs/
 *_i.c
 *_p.c
 *_h.h
